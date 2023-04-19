@@ -3,7 +3,7 @@
     "version": "3.7.9.20230324",
     "license": "https://hx.dcloud.net.cn/license",
     "url": "https://download.dcloud.io/download/HBuilderX.3.7.9.20230324.zip",
-    "hash": "A5CD8D3ADBA2ABFF827C5F8D4666EBD4",
+    "hash": "MD5:A5CD8D3ADBA2ABFF827C5F8D4666EBD4",
     "bin": "HBuilderX.exe",
     "shortcuts": [
         [
