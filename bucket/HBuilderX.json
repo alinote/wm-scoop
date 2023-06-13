@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.dcloud.io/hbuilderx.html",
-    "version": "3.8.3.20230526",
+    "version": "3.8.4.20230531",
     "license": "https://hx.dcloud.net.cn/license",
-    "url": "https://download.dcloud.io/download/HBuilderX.3.8.3.20230526.zip",
-    "hash": "MD5:E4F80EB898244302E4375CC1B1F1D38B",
+    "url": "https://download.dcloud.io/download/HBuilderX.3.8.4.20230531.zip",
+    "hash": "MD5:32907727862AC25677571C20174C073B",
     "bin": "HBuilderX\\HBuilderX.exe",
     "shortcuts": [
         [
