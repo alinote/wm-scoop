@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.dcloud.io/hbuilderx.html",
-    "version": "4.56.2025031210",
+    "version": "4.66.2025051912",
     "license": "https://hx.dcloud.net.cn/license",
-    "url": "https://download.dcloud.io/download/HBuilderX.4.56.2025031210.zip",
-    "hash": "MD5:84B1D7CBD126FE8556A6377E162ECA99",
+    "url": "https://download.dcloud.io/download/HBuilderX.4.66.2025051912.zip",
+    "hash": "MD5:C3D64E268532874420F080444954FD40",
     "bin": "HBuilderX\\HBuilderX.exe",
     "shortcuts": [
         ["HBuilderX\\HBuilderX.exe", "HBuilderX - A Superpowered IDE for VUE."]
